@@ -1,1 +1,2 @@
-single_test.py
+tests/single_test.py
+tests/second_test.py
